@@ -62,3 +62,4 @@ bin
 obj
 
 .vscode
+appsetting.development.json

@@ -120,13 +120,13 @@ Now you will train a model using the **.jpg** and **.json** files.
 **C#**
 
 ```
-dotnet add package Azure.AI.FormRecognizer --version 3.0.0 
+dotnet add package Azure.AI.FormRecognizer --version 4.0.0 
 ```
 
 **Python**
 
 ```
-pip install azure-ai-formrecognizer==3.0.0
+pip install azure-ai-formrecognizer==3.2.1
 ```
 
 7. View the contents of the **train-model** folder, and note that it contains a file for configuration settings:

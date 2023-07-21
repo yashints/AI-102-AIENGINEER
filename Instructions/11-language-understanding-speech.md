@@ -81,13 +81,13 @@ To use the Speech SDK with the Language Understanding service, you need to insta
     **C#**
 
     ```
-    dotnet add package Microsoft.CognitiveServices.Speech --version 1.14.0
+    dotnet add package Microsoft.CognitiveServices.Speech --version 1.30.0
     ```
 
     **Python**
 
     ```
-    pip install azure-cognitiveservices-speech==1.14.0
+    pip install azure-cognitiveservices-speech==1.30.0
     ```
 
 2. Additionally, if your system does <u>not</u> have a working microphone, you will need to use an audio file to provide spoken input for your application. In this case, use the following commands to install an additional package so your program can play the audio file (you can skip this if you intend to use a microphone):
@@ -95,7 +95,7 @@ To use the Speech SDK with the Language Understanding service, you need to insta
     **C#**
 
     ```
-    dotnet add package System.Windows.Extensions --version 4.6.0 
+    dotnet add package System.Windows.Extensions --version 7.0.0 
     ```
 
     **Python**

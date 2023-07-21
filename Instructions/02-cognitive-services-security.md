@@ -180,17 +180,17 @@ Now you're ready to use the service principal identity in an application, so it 
     **C#**
 
     ```
-    dotnet add package Azure.AI.TextAnalytics --version 5.1.0
-    dotnet add package Azure.Identity --version 1.5.0
-    dotnet add package Azure.Security.KeyVault.Secrets --version 4.2.0-beta.3
+    dotnet add package Azure.AI.TextAnalytics --version 5.3.0
+    dotnet add package Azure.Identity --version 1.9.0
+    dotnet add package Azure.Security.KeyVault.Secrets --version 4.5.0
     ```
 
     **Python**
 
     ```
-    pip install azure-ai-textanalytics==5.1.0
-    pip install azure-identity==1.5.0
-    pip install azure-keyvault-secrets==4.2.0
+    pip install azure-ai-textanalytics==5.3.0
+    pip install azure-identity==1.13.0
+    pip install azure-keyvault-secrets==4.7.0
     ```
 
 3. View the contents of the **keyvault-client** folder, and note that it contains a file for configuration settings:

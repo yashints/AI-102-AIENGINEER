@@ -53,13 +53,13 @@ In this exercise, you'll complete a partially implemented client application tha
     **C#**
 
     ```
-    dotnet add package Microsoft.CognitiveServices.Speech --version 1.28.0
+    dotnet add package Microsoft.CognitiveServices.Speech --version 1.30.0
     ```
     
     **Python**
     
     ```
-    pip install azure-cognitiveservices-speech==1.28.0
+    pip install azure-cognitiveservices-speech==1.30.0
     ```
 
 3. View the contents of the **speaking-clock** folder, and note that it contains a file for configuration settings:
@@ -162,7 +162,7 @@ Now that you have a **SpeechConfig** for the speech service in your cognitive se
     **C#**
 
     ```
-    dotnet add package System.Windows.Extensions --version 4.6.0 
+    dotnet add package System.Windows.Extensions --version 7.0.0 
     ```
 
     **Python**

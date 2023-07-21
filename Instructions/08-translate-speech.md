@@ -48,13 +48,13 @@ In this exercise, you'll complete a partially implemented client application tha
     **C#**
 
     ```
-    dotnet add package Microsoft.CognitiveServices.Speech --version 1.24.0
+    dotnet add package Microsoft.CognitiveServices.Speech --version 1.30.0
     ```
     
     **Python**
     
     ```
-    pip install azure-cognitiveservices-speech==1.24.0
+    pip install azure-cognitiveservices-speech==1.30.0
     ```
 
 3. View the contents of the **translator** folder, and note that it contains a file for configuration settings:
@@ -190,7 +190,7 @@ Now that you have a **SpeechTranslationConfig** for the speech service in your c
     **C#**
 
     ```
-    dotnet add package System.Windows.Extensions --version 4.6.0 
+    dotnet add package System.Windows.Extensions --version 7.0.0 
     ```
 
     **Python**

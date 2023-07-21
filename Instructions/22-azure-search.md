@@ -341,13 +341,13 @@ Now that you have a useful index, you can use it from a client application. You 
     **C#**
     
     ```
-    dotnet add package Azure.Search.Documents --version 11.1.1
+    dotnet add package Azure.Search.Documents --version 11.4.0
     ```
     
     **Python**
     
     ```
-    pip install azure-search-documents==11.0.0
+    pip install azure-search-documents==11.3.0
     ```
     
 3. View the contents of the **margies-travel** folder, and note that it contains a file for configuration settings:

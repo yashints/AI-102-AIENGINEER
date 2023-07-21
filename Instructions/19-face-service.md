@@ -48,13 +48,13 @@ In this exercise, you'll complete a partially implemented client application tha
     **C#**
 
     ```
-    dotnet add package Microsoft.Azure.CognitiveServices.Vision.ComputerVision --version 6.0.0
+    dotnet add package Microsoft.Azure.CognitiveServices.Vision.ComputerVision --version 7.0.1
     ```
 
     **Python**
 
     ```
-    pip install azure-cognitiveservices-vision-computervision==0.7.0
+    pip install azure-cognitiveservices-vision-computervision==0.9.0
     ```
     
 3. View the contents of the **computer-vision** folder, and note that it contains a file for configuration settings:
