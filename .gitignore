@@ -60,3 +60,5 @@
 22-create-a-search-solution/C-Sharp/margies-travel/obj/Debug/netcoreapp3.1/search-client.AssemblyInfoInputs.cache
 bin
 obj
+
+.vscode
